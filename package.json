@@ -1,15 +1,14 @@
 {
-  "name": "Drag & Drop",
+  "name": "Drag And Drop",
   "version": "1.0.0",
-  "description": "Drag & Drop",
+  "description": "Drag And Drop",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "lite-server"
   },
   "keywords": [
-    "typescript",
-    "course"
+    "typescript"
   ],
   "author": "Adam Kowalczuk",
   "license": "ISC",
